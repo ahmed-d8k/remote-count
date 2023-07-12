@@ -1,0 +1,10 @@
+__pycache__
+*.pth
+/venv
+/output
+/sam_model
+*/models
+*.un~
+*~
+*.swp
+*.npy

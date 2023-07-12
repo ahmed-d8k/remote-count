@@ -1,0 +1,1 @@
+Expected to contain cell nucleus/cytoplasm id mask pair stored as a .npy file
